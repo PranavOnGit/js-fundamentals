@@ -1,4 +1,5 @@
 
+//For loop is used to take control of the statments in the code
 
 //The For loop
 

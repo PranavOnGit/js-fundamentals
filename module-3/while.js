@@ -5,6 +5,6 @@ var i = 1 ; var j = 10
 
 while(i <= j)
 {
-    console.log(i);
+    console.log(i)
     i++
 }
